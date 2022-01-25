@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.6",
+  "author": {
+    "name": "A Stranger",
+    "id": "#2433"
+  },
+  "service": "ArchiveOfOurOwn",
+  "description": {
+    "en": "English"
+  },
+  "url": "archiveofourown.org",
+  "version": "1.0.0",
+  "logo": "https://archiveofourown.org/images/ao3_logos/logo_42.png",
+  "thumbnail": "https://archiveofourown.org/images/ao3_logos/logo_42.png",
+  "color": "#e61919",
+  "category": "socials & stream",
+  "tags": [
+    "fanfic",
+    "writing",
+    "social"
+  ]
+}
