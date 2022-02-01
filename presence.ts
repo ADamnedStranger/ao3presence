@@ -59,7 +59,7 @@ if (
 			presenceData.details = "Looking for something";
 			presenceData.state = document.querySelector("head > title").textContent;
 			presenceData.startTimestamp = browsingTimestamp;
-		} else if (pathname === "/bookmarks") presenceData.details = "Browsking Bookmarks";
+		} else if (pathname === "/bookmarks") presenceData.details = "Browsing Bookmarks";
 		else if (pathname.startsWith("/bookmarks/")) {
 			presenceData.details = "Browsing Bookmarks";
 			presenceData.state = document.querySelector("head > title").textContent;
